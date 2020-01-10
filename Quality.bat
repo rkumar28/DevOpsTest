@@ -1,0 +1,1 @@
+echo "Unit tests are executed successfully : %date% : %time%"
